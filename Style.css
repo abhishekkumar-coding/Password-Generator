@@ -1,0 +1,10 @@
+.container {
+  height: 800px;
+}
+.custom-hr {
+  border: 0;
+  height: 5px;
+  background: black;
+  margin: 20px 0;
+  width: 100%;
+}
